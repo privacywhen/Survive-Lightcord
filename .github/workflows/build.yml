@@ -1,4 +1,4 @@
-name: Build/release (and survive)
+name: Build/release
 
 on: push
 
