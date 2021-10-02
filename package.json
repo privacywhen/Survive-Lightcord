@@ -34,7 +34,7 @@
   },
   "private": true,
   "devDependencies": {
-    "@types/auto-launch": "^5.0.1",
+    "@types/auto-launch": "^5.0.2",
     "@types/electron-devtools-installer": "^2.2.0",
     "@types/micromatch": "^4.0.1",
     "@types/mkdirp": "^1.0.0",
