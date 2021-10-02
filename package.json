@@ -1,6 +1,6 @@
 {
   "name": "lightcord",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "A simple - customizable - Discord Client.",
   "main": "dist/index.js",
   "scripts": {
