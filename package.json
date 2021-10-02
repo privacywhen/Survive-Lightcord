@@ -41,7 +41,7 @@
     "@types/node": "12.12.39",
     "@types/rimraf": "^3.0.0",
     "@types/uuid": "^8.0.0",
-    "@types/yauzl": "^2.9.1",
+    "@types/yauzl": "^2.9.2",
     "asar": "^3.0.3",
     "dotenv": "^8.2.0",
     "electron": "^9.4.4",
