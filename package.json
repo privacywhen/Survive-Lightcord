@@ -43,7 +43,7 @@
     "@types/uuid": "^8.3.1",
     "@types/yauzl": "^2.9.2",
     "asar": "^3.1.0",
-    "dotenv": "^8.6.0",
+    "dotenv": "^10.0.0",
     "electron": "^15.1.1",
     "electron-builder": "^22.8.0",
     "fast-glob": "^3.2.7",
